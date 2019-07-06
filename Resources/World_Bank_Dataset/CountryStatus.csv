@@ -1,0 +1,219 @@
+﻿IncomeGroup,Country
+Low income,Afghanistan
+Upper middle income,Albania
+Upper middle income,Algeria
+Upper middle income,American Samoa
+High income,Andorra
+Lower middle income,Angola
+High income,Antigua and Barbuda
+High income,Argentina
+Upper middle income,Armenia
+High income,Aruba
+High income,Australia
+High income,Austria
+Upper middle income,Azerbaijan
+High income,"Bahamas, The"
+High income,Bahrain
+Lower middle income,Bangladesh
+High income,Barbados
+Upper middle income,Belarus
+High income,Belgium
+Upper middle income,Belize
+Low income,Benin
+High income,Bermuda
+Lower middle income,Bhutan
+Lower middle income,Bolivia
+Upper middle income,Bosnia and Herzegovina
+Upper middle income,Botswana
+Upper middle income,Brazil
+High income,British Virgin Islands
+High income,Brunei Darussalam
+Upper middle income,Bulgaria
+Low income,Burkina Faso
+Low income,Burundi
+Lower middle income,Cabo Verde
+Lower middle income,Cambodia
+Lower middle income,Cameroon
+High income,Canada
+High income,Cayman Islands
+Low income,Central African Republic
+Low income,Chad
+High income,Channel Islands
+High income,Chile
+Upper middle income,China
+Upper middle income,Colombia
+Low income,Comoros
+Low income,"Congo, Dem. Rep."
+Lower middle income,"Congo, Rep."
+Upper middle income,Costa Rica
+Lower middle income,Côte d'Ivoire
+High income,Croatia
+Upper middle income,Cuba
+High income,Curaçao
+High income,Cyprus
+High income,Czech Republic
+High income,Denmark
+Lower middle income,Djibouti
+Upper middle income,Dominica
+Upper middle income,Dominican Republic
+Upper middle income,Ecuador
+Lower middle income,"Egypt, Arab Rep."
+Lower middle income,El Salvador
+Upper middle income,Equatorial Guinea
+Low income,Eritrea
+High income,Estonia
+Lower middle income,Eswatini
+Low income,Ethiopia
+High income,Faroe Islands
+Upper middle income,Fiji
+High income,Finland
+High income,France
+High income,French Polynesia
+Upper middle income,Gabon
+Low income,"Gambia, The"
+Lower middle income,Georgia
+High income,Germany
+Lower middle income,Ghana
+High income,Gibraltar
+High income,Greece
+High income,Greenland
+Upper middle income,Grenada
+High income,Guam
+Upper middle income,Guatemala
+Low income,Guinea
+Low income,Guinea-Bissau
+Upper middle income,Guyana
+Low income,Haiti
+Lower middle income,Honduras
+High income,"Hong Kong SAR, China"
+High income,Hungary
+High income,Iceland
+Lower middle income,India
+Lower middle income,Indonesia
+Upper middle income,"Iran, Islamic Rep."
+Upper middle income,Iraq
+High income,Ireland
+High income,Isle of Man
+High income,Israel
+High income,Italy
+Upper middle income,Jamaica
+High income,Japan
+Upper middle income,Jordan
+Upper middle income,Kazakhstan
+Lower middle income,Kenya
+Lower middle income,Kiribati
+Low income,"Korea, Dem. People's Rep."
+High income,"Korea, Rep."
+Lower middle income,Kosovo
+High income,Kuwait
+Lower middle income,Kyrgyz Republic
+Lower middle income,Lao PDR
+High income,Latvia
+Upper middle income,Lebanon
+Lower middle income,Lesotho
+Low income,Liberia
+Upper middle income,Libya
+High income,Liechtenstein
+High income,Lithuania
+High income,Luxembourg
+High income,"Macao SAR, China"
+Low income,Madagascar
+Low income,Malawi
+Upper middle income,Malaysia
+Upper middle income,Maldives
+Low income,Mali
+High income,Malta
+Upper middle income,Marshall Islands
+Lower middle income,Mauritania
+Upper middle income,Mauritius
+Upper middle income,Mexico
+Lower middle income,"Micronesia, Fed. Sts."
+Lower middle income,Moldova
+High income,Monaco
+Lower middle income,Mongolia
+Upper middle income,Montenegro
+Lower middle income,Morocco
+Low income,Mozambique
+Lower middle income,Myanmar
+Upper middle income,Namibia
+Upper middle income,Nauru
+Low income,Nepal
+High income,Netherlands
+High income,New Caledonia
+High income,New Zealand
+Lower middle income,Nicaragua
+Low income,Niger
+Lower middle income,Nigeria
+Upper middle income,North Macedonia
+High income,Northern Mariana Islands
+High income,Norway
+High income,Oman
+Lower middle income,Pakistan
+High income,Palau
+High income,Panama
+Lower middle income,Papua New Guinea
+Upper middle income,Paraguay
+Upper middle income,Peru
+Lower middle income,Philippines
+High income,Poland
+High income,Portugal
+High income,Puerto Rico
+High income,Qatar
+Upper middle income,Romania
+Upper middle income,Russian Federation
+Low income,Rwanda
+Upper middle income,Samoa
+High income,San Marino
+Lower middle income,São Tomé and Principe
+High income,Saudi Arabia
+Low income,Senegal
+Upper middle income,Serbia
+High income,Seychelles
+Low income,Sierra Leone
+High income,Singapore
+High income,Sint Maarten (Dutch part)
+High income,Slovak Republic
+High income,Slovenia
+Lower middle income,Solomon Islands
+Low income,Somalia
+Upper middle income,South Africa
+Low income,South Sudan
+High income,Spain
+Lower middle income,Sri Lanka
+High income,St. Kitts and Nevis
+Upper middle income,St. Lucia
+High income,St. Martin (French part)
+Upper middle income,St. Vincent and the Grenadines
+Lower middle income,Sudan
+Upper middle income,Suriname
+High income,Sweden
+High income,Switzerland
+Low income,Syrian Arab Republic
+IncomeGroup,TableName
+Low income,Tajikistan
+Low income,Tanzania
+Upper middle income,Thailand
+Lower middle income,Timor-Leste
+Low income,Togo
+Upper middle income,Tonga
+High income,Trinidad and Tobago
+Lower middle income,Tunisia
+Upper middle income,Turkey
+Upper middle income,Turkmenistan
+High income,Turks and Caicos Islands
+Upper middle income,Tuvalu
+Low income,Uganda
+Lower middle income,Ukraine
+High income,United Arab Emirates
+High income,United Kingdom
+High income,United States
+High income,Uruguay
+Lower middle income,Uzbekistan
+Lower middle income,Vanuatu
+Upper middle income,"Venezuela, RB"
+Lower middle income,Vietnam
+High income,Virgin Islands (U.S.)
+Lower middle income,West Bank and Gaza
+Low income,"Yemen, Rep."
+Lower middle income,Zambia
+Low income,Zimbabwe
